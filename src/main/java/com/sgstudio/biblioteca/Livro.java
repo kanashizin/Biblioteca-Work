@@ -9,6 +9,7 @@ package com.sgstudio.biblioteca;
  * @author Kanashi
  */
 public class Livro {
+    //Oi Kanashi
     protected String titulo;
     protected String autor;
     private int idProprietario = -2;
